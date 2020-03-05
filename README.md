@@ -7,7 +7,7 @@
 
 To-do list with beautiful and easy to use UI, the user can add a to-do by typing a task in the input and clicking the "+" button, after that they can rather check the to-do when it's done and remove it using the checkbox button. Any list can be created by using the url with a forward slash of the name you wish to title the new list.
 
-<img src="to-do-img.png">
+<a href="https://calm-tor-99766.herokuapp.com/"><img src="to-do-img.png"></a>
 
 
 ## Features
